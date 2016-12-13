@@ -63,6 +63,7 @@ Components can be registered using the `.component()` method of an Angular modul
   <span>Name: {{$ctrl.hero.name}}</span>
 </file>
 </example>
+test change
 
 It's also possible to add components via {@link $compileProvider#component} in a module's config phase.
 
